@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @BeatrizVaroneli
-- 👀 I’m Developing girl 
+- 👋 Hi, I’m @BeatrizVaroneliq
 - 🌱 I’m currently learning developing WEB, Fullstalk
 <!---
 BeatrizVaroneli/BeatrizVaroneli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
